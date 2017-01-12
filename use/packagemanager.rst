@@ -3,6 +3,6 @@
 .. _packagemanager:
 
 Package Manager
-=======================
+===============
 
 This section is a brief introduct
